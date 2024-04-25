@@ -19,7 +19,9 @@ Welcome to the Snake Game repository! This classic Snake game implementation in 
 
 ## Screenshots
 ![image](https://github.com/lizblackledge/Snake/assets/92070651/6dbe9ec7-c15e-452f-b605-41fa2b19a063)
+
 ![image](https://github.com/lizblackledge/Snake/assets/92070651/2f2acb4c-3a06-4205-b129-da9fab6dda72)
+
 ![image](https://github.com/lizblackledge/Snake/assets/92070651/4e84ca49-5702-4d61-a9c1-a61eaebfe444)
 
 
