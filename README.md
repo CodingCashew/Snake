@@ -26,5 +26,6 @@ Welcome to the Snake Game repository! This classic Snake game implementation in 
 
 
 ## Demo
-![SnakeDemo](https://github.com/lizblackledge/Snake/assets/92070651/63663b5d-4638-4a2f-84f9-dcca8dee8516)
+![SnakeDemo](https://github.com/lizblackledge/Snake/assets/92070651/18a2761d-4f18-4f13-a1ae-dca61e41e7a2)
+
 
